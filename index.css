@@ -1,0 +1,187 @@
+body{
+    background-color:gray;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	min-width: 320px;
+	max-height: 800px;
+	margin: auto;
+	
+}
+
+.topo{
+	width: 100%;
+	height: 120px;
+	background-image: linear-gradient(to right,#981D25, #801474);
+	position: fixed;
+    float: left;
+}
+
+.logo p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    }
+
+.logo{
+    width: 30%;
+    height: 120px;
+    background-color:none;
+    float: left;
+}
+
+.menu{
+    width: 70%;
+    height: 100px;
+    background-color: none;
+    float: left;
+
+}
+.editarmenu{
+    list-style: none;
+    border: 1px solid #c0c0c0;
+    float: left;
+    margin-top: 4%;
+}
+
+.editarmenu li{
+    position: relative;
+    float: left;
+    border-right: 1px solid #c0c0c0;
+}
+
+.editarmenu li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 13px 25px;
+}
+
+.editarmenu li a:hover{
+    background-color: #333;
+    color: #fff;
+}
+
+.banner{
+    width: 90%;
+    height: 500px;
+    background-color: white;
+    margin-left: 5%;
+    margin-top: 30px;
+    float: left;
+    
+}
+
+.banner img{
+    width: 100%; 
+    height: 100%;
+}
+
+.produtos{
+    width: 90%;
+    min-height: 770px;
+    background-color: white;
+    margin-left: 5%;
+    float: left;
+}
+
+.promocoes{
+    width: 45%;
+    height: 200px;
+    float: left;
+    margin-left: 2.5%;
+    clear: both;
+}
+
+.promocoes p{
+    margin-left: 40%;
+    font-size: 30px;
+    color: #981D25;
+    text-shadow: 1px 1px 2px rgb(73, 58, 58);
+
+}
+
+.promocoes img{
+    width: 100%;
+    margin-left: 5%;
+}
+
+.salgadas{
+    width: 45%;
+    height: 200px;
+    margin-left: 10px;
+    float: left;    
+}
+
+.salgadas p{
+    margin-left: 40%;
+    font-size: 30px;
+    color: #981D25;
+    text-shadow: 1px 1px 2px rgb(73, 58, 58);
+}
+
+.salgadas img{
+    width: 100%;
+    margin-left: 5%;
+}
+
+.doces{
+    width: 45%;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 15%;
+    float: left;
+    }
+
+.doces p{
+    margin-left: 45%;
+    font-size: 30px;
+    color: #981D25;
+    text-shadow: 1px 1px 2px rgb(73, 58, 58);
+}
+
+.doces img{
+    width: 100%;
+    margin-left: 5%;
+}
+
+.veganas{
+    width: 45%;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 15%;
+    float: left;
+}
+
+.veganas p{
+    margin-left: 45%;
+    font-size: 30px;
+    color: #981D25;
+    text-shadow: 1px 1px 2px rgb(73, 58, 58);
+}
+
+.veganas img{
+    width: 100%;
+    margin-left: 5%;
+}
+
+.empresa{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    clear: both;
+}
+
+.imgempresa{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
+.imgempresa img{
+  
+    margin-left: 29%;
+    margin-top: 5%;
+}
+
+
+
+
